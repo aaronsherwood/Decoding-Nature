@@ -101,8 +101,10 @@ Week 6 - Frankenstein Sketches
 * Workshopping Complex Programs
 * Assignment: [Mid-term](https://github.com/aaronsherwood/Decoding-Nature/wiki/Midterm-Assignment)
 
+Week 7 - Mid-Semester Project Presentations
+-----------------------------------------------------
 
-Special Session - Physics Libraries
+Week 8 - Physics Libraries
 ------------------------------------------------------
 * [Nature of Code Chapter 5: Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/)
 * Box2D
@@ -123,11 +125,7 @@ Special Session - Physics Libraries
     * [simple 3d box demo](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp5_physicslibraries/bRigid_jBullet)
 * Other libraries?
 
-
-Week 7 - Mid-Semester Project Presentations
------------------------------------------------------
-
-Week 8 - Cellular Automata / Fractals
+Week 9 - Cellular Automata / Fractals
 -----------------------------------------------
 * Cellular Automata
     * [Nature of Code Chapter 7](http://natureofcode.com/book/chapter-7-cellular-automata/)
@@ -152,7 +150,7 @@ Week 8 - Cellular Automata / Fractals
 *  Assignment: 
    * [Reading](http://natureofcode.com/book/chapter-9-the-evolution-of-code/) and [Video](http://video.natureofcode.com/) for Chapter 9: The Evolution of Code
 
-Week 9 - Genetic Algorithms
+Week 10 - Genetic Algorithms
 --------------------------------------------------------------
 * [Nature of Code Chapter 9](http://natureofcode.com/book/chapter-9-the-evolution-of-code/)
 * [GA Presentation @ Kickstarter](http://video.natureofcode.com/9.1/)
@@ -167,7 +165,7 @@ Week 9 - Genetic Algorithms
     * [Evolved Virtual Creatures](http://www.karlsims.com/evolved-virtual-creatures.html)
     * [Digital Babylon NOC 2005](http://joan.cat/en/dbn/)
 
-Week 10 - Neural Networks
+Week 11 - Neural Networks
 ---------------------------------------------------------------
 * [10 Misconceptions About Neural Networks](http://www.turingfinance.com/misconceptions-about-neural-networks/)
 * [How XOR Led to Back Propagation](http://mnemstudio.org/neural-networks-multilayer-perceptrons.htm)
