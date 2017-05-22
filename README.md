@@ -1,12 +1,11 @@
-The Nature of Code (Spring 2016)
+Decoding Nature (Fall 2017)
 ================================
 
 Class Info
 ----------
-* Mimi Yin: mimi.yin@nyu.edu
-* Wednesdays, 12:10pm to 3:05pm in Room 20
-* [Office Hours - Room 455](https://itp.nyu.edu/inwiki/Signup/Mimi)
-* [Sign up for Mailing List](https://groups.google.com/a/itp.nyu.edu/forum/#!forum/natureofcode)
+* Aaron Sherwood: sherwood@nyu.edu
+* Mondays 4:05 - 5:20 and Wednesdays 2:40 - 5:20 rm C3 - 153
+* Office Hours by appointment
 
 Resources
 ---------
@@ -25,7 +24,7 @@ Related Reading and Watching
 * [Computational Beauty of Nature](http://www.amazon.com/gp/product/0262561271/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0262561271&linkCode=as2&tag=natureofcode-20)
 * [Form and Code](http://formandcode.com/)
 
-Week 1 - Introduction - 1/27/16
+Week 1 - Introduction
 -------------------------------
 
 * Class Intro / Overview
@@ -48,7 +47,7 @@ Week 1 - Introduction - 1/27/16
     * [Computational Beauty of Nature](http://www.amazon.com/gp/product/0262561271/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0262561271&linkCode=as2&tag=natureofcode-20), Introduction
     * [Probability Theory](http://www.probabilitytheory.info/)
 
-Week 2 - Forces - 2/3/16
+Week 2 - Forces
 ------------------------
 * [Nature of Code Chapter 2: Forces](http://natureofcode.com/book/chapter-2-forces/)
 * Videos 2.1 - 2.6
@@ -59,7 +58,7 @@ Week 2 - Forces - 2/3/16
     * [The Physics Classroom -- Newton's Laws](http://www.physicsclassroom.com/Class/newtlaws/newtltoc.html)
     * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1584503300/), Chapters 12 and 14
 
-Week 3 - Oscillation - 2/10/16
+Week 3 - Oscillation
 -------------------------------
 * [Nature of Code Chapter 3: Oscillation](http://natureofcode.com/book/chapter-3-oscillation/)
 * Videos 3.1 - 3.5
@@ -72,7 +71,7 @@ Week 3 - Oscillation - 2/10/16
     * [Trigonometry, What is it good for?](http://www.phy6.org/stargaze/Strig1.htm)
     * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1584503300/), Chapter 4
 
-Week 4 - Systems - 2/17/16
+Week 4 - Systems
 -------------------------------
 * [Nature of Code Chapter 4: Particle Systems](http://natureofcode.com/book/chapter-4-particle-systems/)
 * Videos 4.1 - 4.9
@@ -85,7 +84,7 @@ Week 4 - Systems - 2/17/16
     * [Particle System API, by David K. McAllister](http://www.siggraph.org/education/materials/HyperGraph/animation/particle.htm)
     * [Particle Systems by Allen Martin](http://web.cs.wpi.edu/~matt/courses/cs563/talks/psys.html)
 
-Week 5 - Autonomous Agents - 2/24/16
+Week 5 - Autonomous Agents
 -----------------------------------
 * [Nature of Code Chapter 6](http://natureofcode.com/book/chapter-6-autonomous-agents/)
 * Videos 6.1 - 6.8
@@ -98,13 +97,13 @@ Week 5 - Autonomous Agents - 2/24/16
     * [Finding the closest point on a curve.](http://www.mesacc.edu/~marfv02121/readings/nearest_point/index.html)
 * [Assignment](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Week-5-Assignment)
 
-Week 6 - Frankenstein Sketches - 3/2/15
+Week 6 - Frankenstein Sketches
 ------------------------------------------------------
 * Workshopping Complex Programs
 * Assignment: [Mid-term](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Midterm-Assignment)
 
 
-Special Session - Physics Libraries - ???
+Special Session - Physics Libraries
 ------------------------------------------------------
 * [Nature of Code Chapter 5: Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/)
 * Box2D
@@ -125,12 +124,11 @@ Special Session - Physics Libraries - ???
     * [simple 3d box demo](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp5_physicslibraries/bRigid_jBullet)
 * Other libraries?
 
-### No class, 3/16/15, Spring Break
 
-Week 7 - Mid-Semester Project Presentations - 3/13/16
+Week 7 - Mid-Semester Project Presentations
 -----------------------------------------------------
 
-Week 8 - Cellular Automata / Fractals - 3/30/16
+Week 8 - Cellular Automata / Fractals
 -----------------------------------------------
 * Cellular Automata
     * [Nature of Code Chapter 7](http://natureofcode.com/book/chapter-7-cellular-automata/)
@@ -156,7 +154,7 @@ Week 8 - Cellular Automata / Fractals - 3/30/16
    * [Reading](http://natureofcode.com/book/chapter-9-the-evolution-of-code/) and [Video](http://video.natureofcode.com/) for Chapter 9: The Evolution of Code
    *  [Final Project Proposal Guidelines](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Final-Project-Presentation-Guidelines).
 
-Week 9 - Genetic Algorithms - 4/06/16
+Week 9 - Genetic Algorithms
 --------------------------------------------------------------
 * [Nature of Code Chapter 9](http://natureofcode.com/book/chapter-9-the-evolution-of-code/)
 * [GA Presentation @ Kickstarter](http://video.natureofcode.com/9.1/)
@@ -173,18 +171,18 @@ Week 9 - Genetic Algorithms - 4/06/16
 * Assignment: 
    * [Final Project Proposal Guidelines](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Final-Project-Presentation-Guidelines)
 
-Week 10 - Neural Networks / Final Project Proposals - 4/13/16
+Week 10 - Neural Networks / Final Project Proposals
 ---------------------------------------------------------------
 * [10 Misconceptions About Neural Networks](http://www.turingfinance.com/misconceptions-about-neural-networks/)
 * [How XOR Led to Back Propagation](http://mnemstudio.org/neural-networks-multilayer-perceptrons.htm)
 * [XOR Problem Solution](http://www.mind.ilstu.edu/curriculum/artificial_neural_net/xor_problem_and_solution.php)
 * Assignment: Prepare for User Testing session next week.
 
-Week 11 - User Testing Week - 4/20/16
+Week 11 - User Testing Week
 -------------------------------------
 * This week you will "user test" your project with fellow classmates. You must have some implementation that you can test completed by this time.  User testing can mean different things for different projects. For a game, it can mean that the user tries to play it. For an art piece, it could mean showing it to a classmate and asking for them to say what they think it is about or how it made them feel. We'll show projects in a "one on one" / round robin / speed dating-style session. 5 minutes then switch. You cannot not explain your project, just show and let the user try it and give you feedback. Then you can answer questions.  User testing schedule will be provided on a wiki.
 
-Week 12 - Final Project Presentations - 4/27/16
+Week 12 - Final Project Presentations
 -----------------------------------------------
 * [Presentation Guidelines](https://github.com/mimiyin/Nature-of-Code-S-16/wiki/Final-Project-Presentation-Guidelines)
 * Presentation Schedule and Guidelines TBA
@@ -194,9 +192,8 @@ Rules of Play
 -----------------------------------------------
 * Be on time. Do the reading/video watching. Review the example problems. Submit assignments by the morning of class. Come prepared with questions. Put away screens during others' presentations. Participate!
 * Grading:
-   * 40% Class Participation
-   * 40% Quality of assignments
-   * 20% Final project
-   * According to ITP:
-      * 2 latenesses of more than 15 minutes counts as an absence.
-      * More than 2 absences is grounds for failure.
+   * 20% Attendance
+   * 20% Assignments
+   * 20% Blog Posts
+   * 15% Midterm project
+   * 25% Final project
