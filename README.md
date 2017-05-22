@@ -87,7 +87,7 @@ Week 5 - Physics Libraries pt. 1
 ------------------------------------------------------
 * [Nature of Code Chapter 5: Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/)
 * Box2D
-    * [Box2D web site](http://box2d.org/)
+    * [Box2D web site](http://box2d.org/about/)
     * [JBox2D web site](http://www.jbox2d.org/)
     * [PBox2D github repo](https://github.com/shiffman/PBox2D)
     * Videos 5.1 - 5.9
