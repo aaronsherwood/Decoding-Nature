@@ -169,18 +169,21 @@ Week 9 - Genetic Algorithms
 * Assignment: 
    * [Final Project Proposal Guidelines](https://github.com/aaronsherwood/Decoding-Nature/wiki/Final-Project-Proposal-Guidelines)
 
-Week 10 - Neural Networks / Final Project Proposals
+Week 10 - Neural Networks
 ---------------------------------------------------------------
 * [10 Misconceptions About Neural Networks](http://www.turingfinance.com/misconceptions-about-neural-networks/)
 * [How XOR Led to Back Propagation](http://mnemstudio.org/neural-networks-multilayer-perceptrons.htm)
 * [XOR Problem Solution](http://www.mind.ilstu.edu/curriculum/artificial_neural_net/xor_problem_and_solution.php)
+
+Week 12 - Final Project Proposals
+---------------------------------------------------------------
 * Assignment: Prepare for User Testing session next week.
 
-Week 11 - User Testing Week
+Week 13 - User Testing Week
 -------------------------------------
 * This week you will "user test" your project with fellow classmates. You must have some implementation that you can test completed by this time.  User testing can mean different things for different projects. For a game, it can mean that the user tries to play it. For an art piece, it could mean showing it to a classmate and asking for them to say what they think it is about or how it made them feel. We'll show projects in a "one on one" / round robin / speed dating-style session. 5 minutes then switch. You cannot not explain your project, just show and let the user try it and give you feedback. Then you can answer questions.  User testing schedule will be provided on a wiki.
 
-Week 12 - Final Project Presentations
+Week 14 - Final Project Presentations
 -----------------------------------------------
 * Presentation Schedule and Guidelines TBA
 
