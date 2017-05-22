@@ -166,14 +166,14 @@ Week 9 - Genetic Algorithms
     * [BoxCar2D](http://boxcar2d.com/)
     * [Evolved Virtual Creatures](http://www.karlsims.com/evolved-virtual-creatures.html)
     * [Digital Babylon NOC 2005](http://joan.cat/en/dbn/)
-* Assignment: 
-   * [Final Project Proposal Guidelines](https://github.com/aaronsherwood/Decoding-Nature/wiki/Final-Project-Proposal-Guidelines)
 
 Week 10 - Neural Networks
 ---------------------------------------------------------------
 * [10 Misconceptions About Neural Networks](http://www.turingfinance.com/misconceptions-about-neural-networks/)
 * [How XOR Led to Back Propagation](http://mnemstudio.org/neural-networks-multilayer-perceptrons.htm)
 * [XOR Problem Solution](http://www.mind.ilstu.edu/curriculum/artificial_neural_net/xor_problem_and_solution.php)
+* Assignment: 
+   * [Final Project Proposal Guidelines](https://github.com/aaronsherwood/Decoding-Nature/wiki/Final-Project-Proposal-Guidelines)
 
 Week 12 - Final Project Proposals
 ---------------------------------------------------------------
