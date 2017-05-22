@@ -83,28 +83,7 @@ Week 4 - Systems
     * [Particle System API, by David K. McAllister](http://www.siggraph.org/education/materials/HyperGraph/animation/particle.htm)
     * [Particle Systems by Allen Martin](http://web.cs.wpi.edu/~matt/courses/cs563/talks/psys.html)
 
-Week 5 - Autonomous Agents
------------------------------------
-* [Nature of Code Chapter 6](http://natureofcode.com/book/chapter-6-autonomous-agents/)
-* Videos 6.1 - 6.8
-* [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp06_agents)
-* Related
-    * [Reas Process Compendium](https://vimeo.com/22955812)
-    * [Braitenberg Vehicles](http://books.google.com/books/?id=7KkUAT_q_sQC)
-    * [Craig Reynolds' Steering Behaviors for Autonomous Characters](http://www.red3d.com/cwr/steer/)
-    * [BetterExplained/ Dot Product + Finding The "Normal"](http://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
-    * [Finding the closest point on a curve.](http://www.mesacc.edu/~marfv02121/readings/nearest_point/index.html)
-* [Assignment](https://github.com/aaronsherwood/Decoding-Nature/wiki/Week-5-Assignment)
-
-Week 6 - Frankenstein Sketches
-------------------------------------------------------
-* Workshopping Complex Programs
-* Assignment: [Mid-term](https://github.com/aaronsherwood/Decoding-Nature/wiki/Midterm-Assignment)
-
-Week 7 - Mid-Semester Project Presentations
------------------------------------------------------
-
-Week 8 - Physics Libraries
+Week 5 - Physics Libraries pt. 1
 ------------------------------------------------------
 * [Nature of Code Chapter 5: Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/)
 * Box2D
@@ -119,11 +98,40 @@ Week 8 - Physics Libraries
     * [ToxicLibs](http://toxiclibs.org/)
     * [The Making of Nokia Friends](https://vimeo.com/1472427)
     * [Advanced Character Physics](http://www.gamasutra.com/resource_guide/20030121/jacobson_pfv.htm)
+    * Assignment: [Mid-term](https://github.com/aaronsherwood/Decoding-Nature/wiki/Midterm-Assignment)
+
+Week 6 - Physics Libraries pt. 2
+------------------------------------------------------
+* [Nature of Code Chapter 5: Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/)
+* Toxiclibs
+    * Videos 5.13 - 5.16
+    * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp05_libraries/toxiclibs)
+    * [ToxicLibs](http://toxiclibs.org/)
+    * [The Making of Nokia Friends](https://vimeo.com/1472427)
+    * [Advanced Character Physics](http://www.gamasutra.com/resource_guide/20030121/jacobson_pfv.htm)
 * Bullet
     * [bRigid Processing Library](http://www.lab-eds.org/bRigid)
     * [ammo.js Javascript port](https://github.com/kripken/ammo.js/)
     * [simple 3d box demo](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp5_physicslibraries/bRigid_jBullet)
 * Other libraries?
+
+Week 7 - Mid-Semester Project Presentations
+-----------------------------------------------------
+
+Week 8 - Autonomous Agents
+-----------------------------------
+* [Nature of Code Chapter 6](http://natureofcode.com/book/chapter-6-autonomous-agents/)
+* Videos 6.1 - 6.8
+* [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp06_agents)
+* Related
+    * [Reas Process Compendium](https://vimeo.com/22955812)
+    * [Braitenberg Vehicles](http://books.google.com/books/?id=7KkUAT_q_sQC)
+    * [Craig Reynolds' Steering Behaviors for Autonomous Characters](http://www.red3d.com/cwr/steer/)
+    * [BetterExplained/ Dot Product + Finding The "Normal"](http://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
+    * [Finding the closest point on a curve.](http://www.mesacc.edu/~marfv02121/readings/nearest_point/index.html)
+* [Assignment](https://github.com/aaronsherwood/Decoding-Nature/wiki/Week-8-Assignment)
+
+
 
 Week 9 - Cellular Automata / Fractals
 -----------------------------------------------
