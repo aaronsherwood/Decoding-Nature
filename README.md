@@ -115,11 +115,9 @@ Week 6 - Physics Libraries pt. 2
     * [simple 3d box demo](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp5_physicslibraries/bRigid_jBullet)
 * Other libraries?
 
-Week 7 - Mid-Semester Project Presentations
+Week 7 - Mid-Semester Project Presentations & Autonomous Agents
 -----------------------------------------------------
 
-Week 8 - Autonomous Agents
------------------------------------
 * [Nature of Code Chapter 6](http://natureofcode.com/book/chapter-6-autonomous-agents/)
 * Videos 6.1 - 6.8
 * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp06_agents)
@@ -129,11 +127,9 @@ Week 8 - Autonomous Agents
     * [Craig Reynolds' Steering Behaviors for Autonomous Characters](http://www.red3d.com/cwr/steer/)
     * [BetterExplained/ Dot Product + Finding The "Normal"](http://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/)
     * [Finding the closest point on a curve.](http://www.mesacc.edu/~marfv02121/readings/nearest_point/index.html)
-* [Assignment](https://github.com/aaronsherwood/Decoding-Nature/wiki/Week-8-Assignment)
+* [Assignment](https://github.com/aaronsherwood/Decoding-Nature/wiki/Week-7-Assignment)
 
-
-
-Week 9 - Cellular Automata / Fractals
+Week 8 - Cellular Automata
 -----------------------------------------------
 * Cellular Automata
     * [Nature of Code Chapter 7](http://natureofcode.com/book/chapter-7-cellular-automata/)
@@ -145,6 +141,9 @@ Week 9 - Cellular Automata / Fractals
     * [2D Water Ripples CA](http://freespace.virgin.net/hugo.elias/graphics/x_water.htm)
     * [Java Port of 2D Water Ripples](http://neilwallis.com/projects/java/water/index.php)
     * [Understanding Segregation Through a Simulation](http://flowingdata.com/2014/12/09/understanding-segregation-with-a-simulation/)
+
+Week 9 - Fractals
+-----------------------------------------------
 * Fractals
    * [Nature of Code Chapter 8](http://natureofcode.com/book/chapter-8-fractals/)
    * Videos 8.1 - 8.5
