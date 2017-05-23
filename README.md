@@ -9,7 +9,7 @@ Class Info
 
 Resources
 ---------
-* [All coures videos](https://vimeo.com/channels/natureofcode)
+* [All course videos](https://vimeo.com/channels/natureofcode)
 * [Online textbook](http://natureofcode.com/book/)
 * [p5.js code examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js)
 * [p5 Java code examples](https://github.com/shiffman/The-Nature-of-Code-Examples)
@@ -186,7 +186,7 @@ Week 12 - Final Project Proposals
 
 Week 13 - User Testing Week
 -------------------------------------
-* This week you will "user test" your project with fellow classmates. You must have some implementation that you can test completed by this time.  User testing can mean different things for different projects. For a game, it can mean that the user tries to play it. For an art piece, it could mean showing it to a classmate and asking for them to say what they think it is about or how it made them feel. We'll show projects in a "one on one" / round robin / speed dating-style session. 5 minutes then switch. You cannot not explain your project, just show and let the user try it and give you feedback. Then you can answer questions.  User testing schedule will be provided on a wiki.
+* This week you will "user test" your project with fellow classmates. You must have some implementation that you can test completed by this time.  User testing can mean different things for different projects. For a game, it can mean that the user tries to play it. For an art piece, it could mean showing it to a classmate and asking for them to say what they think it is about or how it made them feel. We'll show projects in a "one on one" / round robin / speed dating-style session. 5 minutes then switch. You cannot not explain your project, just show and let the user try it and give you feedback. Then you can answer questions.
 
 Week 14 - Final Project Presentations
 -----------------------------------------------
