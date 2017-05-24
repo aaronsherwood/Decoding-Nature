@@ -198,7 +198,6 @@ Rules of Play
 * Be on time. Do the reading/video watching. Review the example problems. Submit assignments by the morning of class. Come prepared with questions. Put away screens during others' presentations. Participate!
 * Grading:
    * 20% Attendance
-   * 20% Assignments
-   * 20% Blog Posts
+   * 40% Assignments
    * 15% Midterm project
    * 25% Final project
